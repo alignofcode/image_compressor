@@ -13,6 +13,12 @@ npm run dev
 npm run dev -- --open
 ```
 
+You should be met with a screen like this:
+
+<img width="1793" height="1643" alt="image" src="https://github.com/user-attachments/assets/c0e6238b-8a2b-490e-a600-b9d9faecf97f" />
+
+Where you can drag'n'drop as many files to compress as you need.
+
 ## Building
 
 To create a production version of your app:
